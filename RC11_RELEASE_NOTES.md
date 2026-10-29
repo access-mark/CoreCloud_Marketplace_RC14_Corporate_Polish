@@ -1,0 +1,1 @@
+RC11 adds a sandbox-only purchasing test page and separate sandbox payment adapter. Existing quote flows and design remain unchanged. No live credit card transactions are enabled. Hosted deployment, PayFast sandbox ITN and browser E2E tests remain NOT VERIFIED.

@@ -1,0 +1,1 @@
+RC12 adds a disabled-by-default ReWorks API adapter and admin-approved sandbox order submission with duplicate prevention. No live ReWorks connectivity or live payments are claimed. See commerce/REWORKS_API_CONFIGURATION.md.
